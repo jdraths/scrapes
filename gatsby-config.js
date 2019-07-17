@@ -7,6 +7,7 @@ module.exports = {
   pathPrefix: "/scrapes",
   plugins: [
     `gatsby-plugin-react-helmet`,
+    // [TODO](Roane Draths) why do we have this twice:
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -14,6 +15,16 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    // to fetch data from the filesystem
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src/`,
+      },
+    },
+    // for markdown reading:
+    `gatsby-transformer-remark`,
     // css in js library:
     `gatsby-plugin-emotion`,
     // typography.js - https://github.com/KyleAMathews/typography.js
