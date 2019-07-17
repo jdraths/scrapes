@@ -2,6 +2,9 @@
 1. push/merge changes to master
 2. then run `npm run deploy` to deploy the changes to gh-pages branch which runs the gh-pages
 
+### Yarn vs NPM
+- for some reason I've used both... yarn.lock / package-lock.json
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Scrapes`,
+    description: `A collection of ideas, lessons-learned, and best practices scraped from everywhere possible`,
+    author: `jdraths`,
   },
   pathPrefix: "/scrapes",
   plugins: [
@@ -14,6 +14,16 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    // css in js library:
+    `gatsby-plugin-emotion`,
+    // typography.js - https://github.com/KyleAMathews/typography.js
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    // for images
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
