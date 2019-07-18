@@ -1,6 +1,6 @@
 ---
 title: The initial sources for how we built this blog
-date: "2019-07-17"
+date: "2019-07-16"
 ---
 
 # Deploying:

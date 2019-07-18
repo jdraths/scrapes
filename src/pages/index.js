@@ -1,6 +1,6 @@
 import React from "react"
 import { css } from "@emotion/core"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 import { rhythm } from "../utils/typography"
 
 import Layout from "../components/layout"
@@ -11,8 +11,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi people</h1>
-    <p>This is going to be something great</p>
-    <p>Next task is to set up markdown based blog pages</p>
+    <p>Next task is to set up search for blog pages</p>
 
     {/* markdown pages */}
     <div>
