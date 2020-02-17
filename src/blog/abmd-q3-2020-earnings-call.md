@@ -1,9 +1,7 @@
 ---
-title: Template
+title: Abiomed still fighting "misleading" studies against Impella effectiveness
 date: "2020-02-06"
 ---
-
-# Abiomed still fighting "misleading" studies against Impella effectiveness
 
 [Abiomed's Q3 2020 Earnings Call](https://seekingalpha.com/article/4322034-abiomed-inc-s-abmd-ceo-michael-minogue-on-q3-2020-results-earnings-call-transcript?part=single) Is ABMD fighting against the "5 stages of grief / innovation acceptance"?. If so this could be only stage 1 or 2:
 

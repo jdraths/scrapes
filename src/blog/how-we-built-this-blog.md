@@ -8,7 +8,7 @@ date: "2019-07-16"
 npm run deploy
 ```
 
-We used the method detailed within [Jared Nielsen's blog](http://jarednielsen.com/deploy-gatsbyjs-github-pages-user/). The only change we made was that we deploy to the gh-pages branch rather than the deploy branch. All we had to do was change the `deploy: script:` within package.json so that the deploy branch is `gh-pages` rather than `deploy`:
+We used the method detailed within [Jared Nielsen's blog](https://jarednielsen.com/deploy-gatsbyjs-github-pages-user/). The only change we made was that we deploy to the gh-pages branch rather than the deploy branch. All we had to do was change the `deploy: script:` within package.json so that the deploy branch is `gh-pages` rather than `deploy`:
 ```
 "scripts": {
     ...

@@ -1,5 +1,5 @@
 ---
-title: Productivity Tips from BJ Fog
+title: Productivity Tips from BJ Fogg
 date: "2020-02-17"
 ---
 
