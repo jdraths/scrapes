@@ -6,7 +6,8 @@ https://jdraths.github.io/scrapes/
 
 ### Publishing scrapes:
 1. push/merge changes to master
-2. then run `npm run deploy` to deploy the changes to gh-pages branch which runs the gh-pages
+2. then run `yarn run deploy` to deploy the changes to gh-pages branch which runs the gh-pages
 
 ### Yarn vs NPM
 - for some reason I've used both... yarn.lock / package-lock.json
+- we previously used `npm run deploy`
