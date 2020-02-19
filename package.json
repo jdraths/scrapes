@@ -41,8 +41,8 @@
     "start": "yarn run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b gh-pages",
-    "deploy-netlify": "gatsby build --prefix-paths"
+    "deploy": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages",
+    "deploy-netlify": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages --dest netlify-deploy"
   },
   "repository": {
     "type": "git",
