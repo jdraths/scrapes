@@ -3,7 +3,7 @@ title: Today's Quick Scrapes
 date: "2020-02-10"
 ---
 
-# Decadence, Stagnation & Innovation:
+## Decadence, Stagnation & Innovation
 
 [Peter Thiel reviews 'The Decadent Society: How We Became the Victims of Our Own Success'](https://www.firstthings.com/article/2020/03/back-to-the-future) Our society has stalled: "Look up from your phone, and compare our time to 1969. 'Over the last two generations,' Douthat writes, 'the only truly radical change has taken place in the devices we use for communication and entertainment, so that a single one of the nineteenth century’s great inventions [running water] still looms larger in our every­day existence than most of what we think of as technological breakthroughs nowadays.'"
 

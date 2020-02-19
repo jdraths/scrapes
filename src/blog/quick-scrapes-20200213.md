@@ -3,7 +3,7 @@ title: Today's Quick Scrapes
 date: "2020-02-13"
 ---
 
-# Crisis Management in the year 2020:
+## Crisis Management in the year 2020
 
 [From Chernobyl to the Coronavirus](https://www.wsj.com/articles/from-chernobyl-to-the-coronavirus-11581610088) Paraphrasing: The Soviets & the CCP are both hiding critical details from the world and their own citizens. For the Soviet Union it resulted in the independence of Ukraine. What will happen in China?
 
