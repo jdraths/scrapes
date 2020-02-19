@@ -27,7 +27,14 @@ Within our repo we also had to change the GitHub Pages settings source to `gh-pa
 
 ### Netlify
 
-Netlify will auto-deploy. We currently set netlify auto-deploy to run from the `netlify` branch. It will deploy into the `deploy-netlify` folder on the `netlify` branch
+Netlify will auto-deploy. We currently set netlify auto-deploy to run from the `public` folder on the `master` branch.
+Compared to the gh-pages deploy method we had to allow the `public` folder in `.gitignore`
+Deploy steps:
+1. make whatever code changes you want
+2. `yarn run deploy` - this adds the deployed code to the `public` folder locally
+3. `git commit -a -m 'commit message'`
+4. `git push`
+5. netlify auto-deploys from there
 
 
 

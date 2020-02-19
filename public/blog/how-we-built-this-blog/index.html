@@ -12,7 +12,16 @@
 <p>Within our repo we also had to change the GitHub Pages settings source to <code>gh-pages branch</code>, <a href="https://github.com/jdraths/scrapes/settings">here</a></p>
 <p>~~</p>
 <h3>Netlify</h3>
-<p>Netlify will auto-deploy. We currently set netlify auto-deploy to run from the <code>netlify</code> branch. It will deploy into the <code>deploy-netlify</code> folder on the <code>netlify</code> branch</p>
+<p>Netlify will auto-deploy. We currently set netlify auto-deploy to run from the <code>public</code> folder on the <code>master</code> branch.
+Compared to the gh-pages deploy method we had to allow the <code>public</code> folder in <code>.gitignore</code>
+Deploy steps:</p>
+<ol>
+<li>make whatever code changes you want</li>
+<li><code>yarn run deploy</code></li>
+<li><code>git commit -a -m 'commit message'</code></li>
+<li><code>git push</code></li>
+<li>netlify auto-deploys from there</li>
+</ol>
 <h1>Initial coding</h1>
 <p>We used the <code>gatsby-blog</code> started and then added the packages from the <a href="https://www.gatsbyjs.org/tutorial/part-four/#recap-of-the-first-half-of-the-tutorial">Gatsby Tutorials</a> so that we could add some better styling and add markdown to our blog. The packages we added were:</p>
 <ol>
