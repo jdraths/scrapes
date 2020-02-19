@@ -42,7 +42,7 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "deploy": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages",
-    "deploy-netlify": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages --dest netlify-deploy"
+    "deploy-netlify": "gatsby build --prefix-paths && gh-pages --dist public --branch netlify --dest netlify-deploy"
   },
   "repository": {
     "type": "git",
