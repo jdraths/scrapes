@@ -14,6 +14,7 @@ We used the method detailed within [Jared Nielsen's blog](https://jarednielsen.c
     ...
     "deploy": "gatsby build --prefix-paths && gh-pages -d public -b gh-pages"
   },
+  <!-- gh-pages is an npm library that publishes files to whichever branch you want -->
 ```
 Within our repo we also had to change the GitHub Pages settings source to `gh-pages branch`, [here](https://github.com/jdraths/scrapes/settings)
 
