@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `iVolve`,
     description: `A collection of ideas, lessons-learned, and best practices scraped from everywhere possible`,
-    author: `jdraths`,
+    author: `iVolve.me`,
   },
   pathPrefix: "/scrapes",
   plugins: [

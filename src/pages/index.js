@@ -10,8 +10,8 @@ import SEO from "../components/seo"
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Next task is to set up search for blog pages</p>
+    {/* <h1>Hi people</h1>
+    <p>Next task is to set up search for blog pages</p> */}
 
     {/* markdown pages */}
     <div>
