@@ -8,4 +8,4 @@ date: "2020-03-14"
 ### on Linux
 [abcde](https://abcde.einval.com/wiki/)
 
-[good abcde settings](/abcde-settings)
+[good abcde settings](/blog/abcde-settings)
