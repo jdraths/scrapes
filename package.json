@@ -45,7 +45,8 @@
     "deploy": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages",
     "deploy-move": "gatsby build --prefix-paths && yarn run move",
     "netlify": "yarn run build",
-    "move": "cd public && mkdir scrapes | mv * scrapes"
+    "move": "cd public && mkdir scrapes | mv * scrapes",
+    "new-p": "cp src/blog/create-template.md"
   },
   "repository": {
     "type": "git",
