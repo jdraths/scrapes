@@ -56,6 +56,4 @@ We're using science to model the infection rate of the disease. Are our elected 
 
 The motivations of all the various stakeholders couldn't be more stark. Politicians and reporters aren't going to lose their jobs as a result of the shutdown. In fact both parties's job prospects could potentially **improve** as a result of the shutdown. The reporter earns clicks and eyeballs as a result of this near constant, life-changing news. The politician gets time in the spotlight to promote himself/herself and her decisive policies. Furthermore, **none** of these shutdowns can be back-tested. Politicians worldwide are all making the same decisions, maximizing the political risk of going against the prevailing group-think.
 
-In much of the Asian world where they have already effectively dealt with flu epidemics over the last decade they already practice social distancing on an ongoing basis. Look up pictures of the kids creating human chains during 2019's Hong Kong protests. You'll see they don't actually hold hands; they'll hold a piece of paper or some other article between them.
-
 Maybe it's time for the citizens to prove that we can effectively self-enforce our own social distancing. It's already been proven to work throughout Asia. We can do it here, too. But our politicians need to give it a chance to work.
