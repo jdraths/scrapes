@@ -42,10 +42,10 @@
     "start": "yarn run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "deploy": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages",
-    "deploy-move": "gatsby build --prefix-paths && yarn run move",
-    "netlify": "yarn run build",
-    "move": "cd public && mkdir scrapes | mv * scrapes",
+    "deploy": "yarn run deploy-gh-pages && yarn run deploy-gh-netlify",
+    "deploy-gh-pages": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages",
+    "deploy-gh-netlify": "git add . && git commit -a -m 'deploy' && git push",
+    "netlify-only": "yarn run build && yarn run deploy-netlify",
     "new-p": "cp src/blog/create-template.md"
   },
   "repository": {
