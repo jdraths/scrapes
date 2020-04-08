@@ -41,7 +41,7 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "yarn run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "test": "echo \"Write some tests! -> https://gatsby.dev/unit-testing\"",
     "deploy": "yarn run deploy-gh-pages && yarn run deploy-gh-netlify",
     "deploy-gh-pages": "gatsby build --prefix-paths && gh-pages --dist public --branch gh-pages",
     "deploy-gh-netlify": "git add . && git commit -a -m 'deploy' && git push",
