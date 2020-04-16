@@ -20,3 +20,11 @@ date: "2020-04-16"
 > ...
 >
 > As Tyler put it yesterday, “America is a democracy, and the median voter will not die of coronavirus.” Solve for the equilibrium.
+
+[Did Xi Jinping Deliberately Sicken the World?](https://thediplomat.com/2020/04/did-xi-jinping-deliberately-sicken-the-world/)
+
+Far fetched, but consider this thought:
+
+> ... there was a darker dimension: the more Beijing cooperated, the less the disease stood to affect other countries. This includes countries China sees as a threat to its existence, like the United States. Why should China suffer the effects of a pandemic while others stayed safe — and increased their strength relative to China — based on China’s own costly experience?
+>
+> Such a question is of course inimical to human decency. And yet we must consider that Xi Jinping has produced the greatest program of ethnic cleansing in the world today. He has curtailed freedoms in China severely and is the father of the panopticon state. His incessant military buildup threatens neighbors while using economic and other subversive means to erode the sovereignty of countries around the world. We should not assume it was beyond his imagining to withhold a degree of support from the international community to ensure that China would not suffer alone.
