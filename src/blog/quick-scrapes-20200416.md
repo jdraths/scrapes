@@ -16,5 +16,7 @@ date: "2020-04-16"
 [Marginal Revolution's latest on political unrest](https://marginalrevolution.com/marginalrevolution/2020/04/when-will-the-riots-begin.html)
 
 > The church is closed, the bar is closed, the local plant is closed. Money is tight. Meanwhile the elites are laughing about binging Tiger King on Netflix. It doesn’t feel right. I can understand that or feel that I must try to understand that.
+>
 > ...
+>
 > As Tyler put it yesterday, “America is a democracy, and the median voter will not die of coronavirus.” Solve for the equilibrium.
