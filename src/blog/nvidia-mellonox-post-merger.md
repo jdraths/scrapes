@@ -20,3 +20,7 @@ It's all fascinating but what we find most interesting is Jensen's response when
 Jensen's basically repeating the Zero To One mantra there. It's better to invent something new and create a new market than to compete for share in an already established one. Throughout the interview Jensen is really straightforward: Nvidia isn't simply integrating this acquisition and selling Mellanox's existing components. They are planning on inventing something entirely new:
 
 > This is the giant new architecture. The really exciting thing right now is not to build yet another server. The exciting thing for the world is the server is not the computing unit anymore. The datacenter is the computing unit. You are going to program a datacenter, not a server.
+>
+> ...
+>
+> My attitude is not to think about the server as a computer, but to think of a CPU server, a GPU server, a storage server, and a programable switch as computing elements that are inside the computer, and the computer unit is now the datacenter. And in that world, networking is all important. And in that world, knowing how to build a computer end-to-end and recognizing the importance of the software stack, which is so complicated from top to bottom, is where we are focused. And I think that in new world where the datacenter is the computer is really quite exciting and I think we have we have the essential pieces.
