@@ -9,7 +9,7 @@ Varun Mathur has [a great thread about Amazon](https://twitter.com/varun_mathur/
 >
 > He was working backwards from being successful
 
-Varun excerpts from the "Amazon.com: Get Big Fast" book and links to a great WSJ article from May 16, 1996.
+Varun excerpts from the "Amazon.com: Get Big Fast" book and links to [a great WSJ article from May 16, 1996](https://www.wsj.com/articles/SB832204437381952500).
 
 There are some great reminders that Amazon's future was far from predictable:
 
