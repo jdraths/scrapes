@@ -27,13 +27,23 @@ October 2019:
 
 [Future Meat raises $14M Series A](https://www.cnbc.com/2019/10/10/future-meat-technologies-a-lab-grown-meat-start-up-raises-14-million-dollars.html)
 
-> Future Meat is far from the only company that has set out to create affordable cell-cultured meat. Several dozen start-ups, mostly in the U.S. and Europe, have sprung up in the last couple of years to develop the product.
->
-> But only one, Memphis Meats, has raised more money than Future Meat in a Series A funding round — $17 million in 2017 — thanks to investments from Bill Gates, Richard Branson and Cargill.
+Proceeds:
+
+> Future Meat plans to use the proceeds to expand research and development efforts and build a cultured meat manufacturing facility to begin production next year.
 
 Investors:
 
 > S2G Ventures, a Chicago-based venture capital fund that invests in food and agriculture, and Emerald Technology Ventures, a Swiss-based firm, led the $14 million round, Future Meat announced Thursday.
+
+Moore's Law?
+
+> Future Meat has managed to reduce production costs to $150 per pound of chicken and $200 per pound for beef.
+>
+> ...
+>
+> By 2022, Future Meat plans to launch a second line of entirely lab-grown meat that will cost less than $10 per pound.
+>
+> In February 2018, Future Meat’s co-founder and chief scientist Yaakov Nahmias said the company had brought the production price down to $800 per kilogram and would reach $5 to $10 per kilogram by 2020.
 
 ## Memphis Meats
 
@@ -41,8 +51,10 @@ January 2020:
 
 [Memphis Meats raises $161M Series B](https://www.forbes.com/sites/michaelpellmanrowland/2020/01/22/memphis-meats-raises-161-million-series-b-funding-round-aims-to-bring-cell-based-products-to-consumers-for-the-first-time/#4715ac41428d)
 
+Proceeds:
+
 > Memphis Meats expects to use the funds to build a pilot production facility, continue to grow its world-class team, and to hit a major milestone of launching products into the market. The company has not yet announced a date for product launch and is working with regulatory agencies to ensure a timely and safe market entry. 
 
 Investors:
 
->The Series B round is led by SoftBank Group, Norwest and Temasek. Also joining the round are new and existing investors including Bill Gates, Richard Branson, Threshold Ventures, Cargill, Tyson Foods, Kimbal Musk, Fifty Years and CPT Capital. This round extends the Memphis Meats coalition to Asia, which is a strategically valuable market for cell-based meat and faces significant challenges in meeting growing demand for meat.
+> The Series B round is led by SoftBank Group, Norwest and Temasek. Also joining the round are new and existing investors including Bill Gates, Richard Branson, Threshold Ventures, Cargill, Tyson Foods, Kimbal Musk, Fifty Years and CPT Capital. This round extends the Memphis Meats coalition to Asia, which is a strategically valuable market for cell-based meat and faces significant challenges in meeting growing demand for meat.
