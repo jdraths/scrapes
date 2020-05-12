@@ -3,9 +3,8 @@ title: Cultured Meat in 2020
 date: "2020-05-11"
 ---
 
-Sources:
 
-## ATKearney
+## Market Research from ATKearney
 
 [How Will Cultured Meat and Meat Alternatives Disrupt the Agricultural and Food Industry?](https://www.kearney.com/documents/20152/2795757/How+Will+Cultured+Meat+and+Meat+Alternatives+Disrupt+the+Agricultural+and+Food+Industry.pdf/06ec385b-63a1-71d2-c081-51c07ab88ad1?t=1559860712714)
 
@@ -21,7 +20,9 @@ Compared to traditional meat the cost inputs for cultured meat are far less. Les
 
 There have also been investments in cultured seafood, leather, silk, egg white, milk, gelatin, and horn.
 
-## Future Meat
+## Major Companies in the Space
+
+### Future Meat
 
 October 2019:
 
@@ -45,7 +46,7 @@ Moore's Law?
 >
 > In February 2018, Future Meat’s co-founder and chief scientist Yaakov Nahmias said the company had brought the production price down to $800 per kilogram and would reach $5 to $10 per kilogram by 2020.
 
-## Memphis Meats
+### Memphis Meats
 
 January 2020:
 
